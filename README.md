@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bontle Malope</h1>
-<h3 align="center">A passionate aspiring Data Analyst from Johannesburg</h3>
+<h3 align="center">A Data Analyst from Johannesburg</h3>
 
 <p align="left"> <a href="https://twitter.com/ntlemm" target="blank"><img src="https://img.shields.io/twitter/follow/ntlemm?logo=twitter&style=for-the-badge" alt="ntlemm" /></a> </p>
 
